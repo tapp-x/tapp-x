@@ -1,11 +1,10 @@
-![Animated Web Developer Workspace Created Entirely with CSS - BestAgencies_com](https://github.com/user-attachments/assets/3b9e1bfa-6b48-4731-b879-0dbc6f7fe359)
-
 <h2> Hey there! I'm Tappourc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 I'm a 42 Angoulême student who is passionate about Artificial Intelligence, Data Science, and Machine Learning.
 
+- 💼 &nbsp; I'm currently looking for an internship after the core 42 curriculum.
 - 🎓 &nbsp; I recently completed the Common Core curriculum at 42 and have started specializing in AI and Data.
 - 🌱 &nbsp; Currently exploring Deep Learning, Data Engineering, Natural Language Processing, and Cloud-based AI solutions.
 - 🚀 &nbsp; Enthusiastic about the world of cryptocurrencies and blockchain technologies, and their potential to revolutionize industries.
