@@ -4,7 +4,7 @@
 
 I'm a 42 Angoulême student who is passionate about Artificial Intelligence, Data Science, and Machine Learning.
 
-- 💼 &nbsp; I'm currently looking for an internship after the core 42 curriculum.
+- 💼 &nbsp; I'm currently doing an AI / Data internship at @Suezenv.
 - 🎓 &nbsp; I recently completed the Common Core curriculum at 42 and have started specializing in AI and Data.
 - 🌱 &nbsp; Currently exploring Deep Learning, Data Engineering, Natural Language Processing, and Cloud-based AI solutions.
 - 🚀 &nbsp; Enthusiastic about the world of cryptocurrencies and blockchain technologies, and their potential to revolutionize industries.
